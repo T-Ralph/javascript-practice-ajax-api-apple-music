@@ -16,6 +16,7 @@
 Docs: https://docs.google.com/document/d/1CcFq0WFupvnk2AA4Go6ZMd2s4tVZX4ly_ocPY4HHkBY/edit# <br>
 Trello: https://trello.com/b/269xIcDF/javascript-ajax-api-assignment-by-t-ralph <br>
 GitHub: https://github.com/TECHCareers-by-Manpower/javascript-practice-ajax-api-T-Ralph <br>
+GitHub.IO Page: https://t-ralph.github.io/javascript-practice-ajax-api-apple-music/ <br>
 
 # PostMan Screenshot
 ![PostMan Screenshot](https://github.com/T-Ralph/javascript-practice-ajax-api-apple-music/blob/master/img/postman.jpg?raw=true)
