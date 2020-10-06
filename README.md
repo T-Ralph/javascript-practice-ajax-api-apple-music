@@ -19,4 +19,4 @@ GitHub: https://github.com/TECHCareers-by-Manpower/javascript-practice-ajax-api-
 GitHub.IO Page: https://t-ralph.github.io/javascript-practice-ajax-api-apple-music/ <br>
 
 # PostMan Screenshot
-![PostMan Screenshot](https://github.com/T-Ralph/javascript-practice-ajax-api-apple-music/blob/master/img/postman.jpg?raw=true)
+![PostMan Screenshot](img/postman.jpg?raw=true)

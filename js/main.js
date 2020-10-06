@@ -4,7 +4,7 @@ const searchITunesMusicAPI = (event) => {
     const searchTerm = document.querySelector("section:nth-of-type(1) > form > input[type=search]").value; //Search Query
     
     //AJAX Fetch to Apple Music Search API
-    fetch( `https://itunes.apple.com/search?term=${searchTerm}` )
+    fetch( `https://itunes.apple.com/search?term=${encodeURIComponent(searchTerm)}` )
         .then( response => response.json() ) //Convert JSON Response to JSON Object
         .then( data => {
 
